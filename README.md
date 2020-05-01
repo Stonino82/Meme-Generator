@@ -1,3 +1,6 @@
+Meme generator made with React.
+Capstone for the Scrimba React course.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
