@@ -4,3 +4,6 @@
 <p>Play with it at <a href="https://stonino82.github.io/Meme-Generator/">this page</a></p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Meme-Generator
+Meme Generator created with React
