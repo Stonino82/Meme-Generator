@@ -71,7 +71,7 @@ class MemeGenerator extends Component {
                     >
                     </input>
                     
-                    <button onClick={this.handleClick}>Gen</button>
+                    <button onClick={this.handleClick}>Change Image</button>
                 </form>
 
                 <div className="meme">
