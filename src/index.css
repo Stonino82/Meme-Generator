@@ -40,7 +40,7 @@ header > h1 {
 
 .meme {
   position: relative;
-  width: 70%;
+  width: 50%;
   margin: auto;
 }
 
@@ -82,15 +82,18 @@ header > h1 {
 }
 
 .meme-form {
-  width: 70%;
+  width: 50%;
   margin: 20px auto;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .meme-form > input {
-  width: 40%;
+  width: 100%;
   height: 50px;
+  margin: 10px 0;
   padding: 12px;
   font-family: VT323, monospace;
   font-weight: 600;
@@ -100,10 +103,12 @@ header > h1 {
 .meme-form > button {
   border: none;
   height: 50px;
+  width: 200px;
   font-family: VT323, monospace;
   font-size: 18px;
   font-weight: bold;
   padding: 12px;
+  margin: 10px 0;
   color: white;
   background: #6441A5;
 }
